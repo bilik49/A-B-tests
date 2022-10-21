@@ -1,2 +1,1 @@
-# A-B-tests
-A/B tests analyzes
+# A/B-test
